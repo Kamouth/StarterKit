@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cipt6myqinqkg"
-path="res://.godot/imported/199066__rustica__clock-tick-tock.wav-13ab110be4bbd860517f3fe1a9877d47.sample"
+path="res://.godot/imported/199066__rustica__clock-tick-tock.wav-315db0cecf8a1f9ffadba7e9611460d7.sample"
 
 [deps]
 
-source_file="res://addons/StarterKit/Objets/Horloge/199066__rustica__clock-tick-tock.wav"
-dest_files=["res://.godot/imported/199066__rustica__clock-tick-tock.wav-13ab110be4bbd860517f3fe1a9877d47.sample"]
+source_file="res://addons/starter_kit/addons/StarterKit/Objets/Horloge/199066__rustica__clock-tick-tock.wav"
+dest_files=["res://.godot/imported/199066__rustica__clock-tick-tock.wav-315db0cecf8a1f9ffadba7e9611460d7.sample"]
 
 [params]
 

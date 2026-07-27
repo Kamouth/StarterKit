@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c8dn6xjroiajv"
-path="res://.godot/imported/tick_3.wav-98c433d1d17ff5e1fb63adc54b45eb34.sample"
+path="res://.godot/imported/tick_3.wav-0d5f6cd1125675acbdb4a02d9a15bb1f.sample"
 
 [deps]
 
-source_file="res://addons/StarterKit/Objets/Horloge/tick_3.wav"
-dest_files=["res://.godot/imported/tick_3.wav-98c433d1d17ff5e1fb63adc54b45eb34.sample"]
+source_file="res://addons/starter_kit/addons/StarterKit/Objets/Horloge/tick_3.wav"
+dest_files=["res://.godot/imported/tick_3.wav-0d5f6cd1125675acbdb4a02d9a15bb1f.sample"]
 
 [params]
 

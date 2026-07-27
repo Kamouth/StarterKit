@@ -1,8 +1,15 @@
 [gd_scene format=3 uid="uid://bbl8tone4p77g"]
 
-[ext_resource type="PackedScene" uid="uid://d4hnpybclkmyj" path="res://addons/StarterKit/Objets/Horloge.tscn" id="1_ik23a"]
+[ext_resource type="PackedScene" uid="uid://d4hnpybclkmyj" path="res://addons/starter_kit/addons/StarterKit/Objets/Horloge.tscn" id="1_ik23a"]
+
+[sub_resource type="QuadMesh" id="QuadMesh_bais7"]
+size = Vector2(25, 25)
 
 [node name="ZooFps" type="Node3D" unique_id=247484102]
 
 [node name="Horloge" parent="." unique_id=961985600 instance=ExtResource("1_ik23a")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0)
+
+[node name="Sol" type="MeshInstance3D" parent="." unique_id=615311922]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 0, 0)
+mesh = SubResource("QuadMesh_bais7")

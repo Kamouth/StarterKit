@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyuevk17pfxuo"
-path.s3tc="res://.godot/imported/horloge.png-adb15af6175bd9e0fb2b2a07f930c5e5.s3tc.ctex"
+path.s3tc="res://.godot/imported/horloge.png-6b802a7277cdd94d0167fa0fde7f7242.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://addons/StarterKit/Objets/Horloge/horloge.png"
-dest_files=["res://.godot/imported/horloge.png-adb15af6175bd9e0fb2b2a07f930c5e5.s3tc.ctex"]
+source_file="res://addons/starter_kit/addons/StarterKit/Objets/Horloge/horloge.png"
+dest_files=["res://.godot/imported/horloge.png-6b802a7277cdd94d0167fa0fde7f7242.s3tc.ctex"]
 
 [params]
 
