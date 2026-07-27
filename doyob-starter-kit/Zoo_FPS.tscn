@@ -1,8 +1,0 @@
-[gd_scene format=3 uid="uid://cy5vjocjjn4wp"]
-
-[ext_resource type="PackedScene" uid="uid://d4hnpybclkmyj" path="res://addons/StarterKit/Objets/Horloge/Horloge.tscn" id="1_erl60"]
-
-[node name="ZooFps" type="Node3D" unique_id=802601336]
-
-[node name="Horloge" parent="." unique_id=961985600 instance=ExtResource("1_erl60")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0)
